@@ -201,9 +201,9 @@
   "Subscriptions": "Подписки",
   "subscriptions": "подписок",
   "Open Master account": "Открыть мастер-счет",
-  "Proportional by Equity*Ratio": "Пропорционально средствам * коэффициент",
   "Action": "Действия",
   "action": "Действия",
+  "Proportional by Equity*Ratio": "Пропорционально средствам * коэффициент",
   "Proportional by Equity": "Пропорционально средствам",
   "Signal investor": "MAM Инвестор",
   "Wait unsubsribe": "В процессе отписки",
@@ -358,5 +358,6 @@
   "Next Step: Deposit money to investment account": "Следующий шаг: Пополнить инвестиционный счет",
   "And start copying signals from a professional": "И начать копировать сделки от профессионалов",
   "Make a deposit": "Пополнить счет",
+  "Dashboard" : "Dashboard",
   "": ""
 }
