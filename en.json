@@ -170,7 +170,7 @@
   "Social Trading": "Social Trading",
   "PAMM": "PAMM",
   "Subscribe": "Subscribe",
-  "Trading password": "Create a password for your account",
+  "Create trading password": "Create a password for your account",
   "Account Type": "Account Type",
   "Open account": "Open account",
   "Still more can come": "Still more can come",
@@ -361,5 +361,6 @@
   "Dashboard" : "Dashboard",
   "Risk Limit" : "Risk Limit",
   "Risk Limit Signal Equity" : "Risk Limit Signal Equity",
+  "Trading password": "Trading password",
   "": ""
 }

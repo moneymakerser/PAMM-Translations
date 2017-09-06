@@ -170,7 +170,7 @@
   "Social Trading": "Социальный трейдинг",
   "PAMM": "ПАММ",
   "Subscribe": "Подписаться",
-  "Trading password": "Создайте пароль для вашего счета",
+  "Create trading password": "Создайте пароль для вашего счета",
   "Account Type": "Тип счета",
   "Open account": "Открыть счет",
   "Still more can come": "Still more can come",
@@ -361,5 +361,6 @@
   "Dashboard" : "Dashboard",
   "Risk Limit" : "Risk Limit",
   "Risk Limit Signal Equity" : "Risk Limit Signal Equity",
+  "Trading password": "Торговый пароль",
   "": ""
 }
