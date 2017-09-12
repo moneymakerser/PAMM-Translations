@@ -362,5 +362,18 @@
   "Risk Limit" : "Risk Limit",
   "Risk Limit Signal Equity" : "Risk Limit Signal Equity",
   "Trading password": "MT5 Trading Account Password",
+  "All time": "All time",
+  "Year": "Year",
+  "6 month": "6 month",
+  "3 month": "3 month",
+  "1 month": "1 month",
+  "My Investment Accounts": "My Investment Accounts",
+  "My Master Accounts": "My Master Accounts",
+  "Subscribe to account": "Subscribe to account",
+  "If you want to withdraw all your funds from investment account and unsubscribe from moneymanager - close your account.": "If you want to withdraw all your funds from investment account and unsubscribe from moneymanager - close your account.",
+  "Close account": "Close account",
+  "Leverage": "Leverage",
+  "New Master account was successfully created": "New Master account was successfully created",
+  "And start earning trading statistics for leaderboard": "And start earning trading statistics for leaderboard",
   "": ""
 }
