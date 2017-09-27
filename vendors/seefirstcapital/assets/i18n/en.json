@@ -83,7 +83,7 @@
   "Pending requests": "Pending requests",
   "0 Pending requests right now": "0 Pending requests right now",
   "Executing_requests": "Executing {{value}} requests",
-  "Requests_executed": "{{value}} requests executed successfully",
+  "Requests_executed": "{{value}} request(s) executed successfully",
   "Account details": "Account details",
   "Change": "Change",
   "Discard": "Discard",
@@ -375,5 +375,14 @@
   "Leverage": "Leverage",
   "New Master account was successfully created": "New Master account was successfully created",
   "And start earning trading statistics for leaderboard": "And start earning trading statistics for leaderboard",
+  "Next Step: Subscribe to a master account": "Next Step: Subscribe to a master account",
+  "To choose and subscribe to a Master account": "To choose and subscribe to a Master account",
+  "Next Step: Deposit money to a master account": "Next Step: Deposit money to a master account",
+  "Create investment account": "Create investment account",
+  "To subscribe it to master and deposit funds": "To subscribe it to master and deposit funds",
+  "And start trading in Metatrader 4": "And start trading in Metatrader 4",
+  "Withdrawal request created": "Withdrawal request created",
+  "Deposit request created": "Deposit request created",
+  "Deposit request will be executed within 24 business hours": "Deposit request will be executed within 24 business hours",
   "": ""
 }
