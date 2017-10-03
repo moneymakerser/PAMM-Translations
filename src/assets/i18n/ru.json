@@ -339,7 +339,7 @@
   "Please ask our support team to set it. Risk limit doesn’t work if trader can change it by himself.": "Пожалуйста, попросите нашу службу поддержки, чтобы установить дневной лимит потерь. Он попросту не будет работать, если трейдер может изменить его самостоятельно.",
   "What risk limit do": "Как только лимит потерь будет достигнут, все позиции на вашем счете будут закрыты, а сам счет будет отписан от управляюещего. <a class='teal'>Как он работает</a>",
   "Accounts in leaderboard": "Счета в рейтинге",
-  "Allocation method tooltip text": "Allocation method tooltip text",
+  "Allocation method tooltip text": "Метод аллокации - это формула, по которой распределяются сделки",
   "Sent by a Client": "Отправлена клиентом",
   "Sent by a Broker": "Отправлена брокером",
   "Drawdown Limit": "Лимит потерь",
