@@ -11,7 +11,7 @@
   "Forgot login or password?": "パスワードを忘れた方はこちら",
   "Dont have an account?": "アカウントを持っていない場合はこちら",
   "Request a demo.": "Rev-Tradingでデモ・アカウントを開設する",
-  "Forgot password MT4 text": "メインアカウントは<a class='cursor-pointer teal' href='{{link}}'>Rev-Tradingで開設する事が出来ます。</a>. メインアカウントは、トレーダーへの入出金、外部への入出金が可能です。",
+  "Forgot password MT4 text": "支払用アカウントは、<a class='cursor-pointer teal' href='{{link}}'>トレーダーズ・ルーム</a> の中で開くことのできるアカウントであればどんなアカウントでも構いません。それは、預け入れや引き出しをするためのE-ウォレットとして使われます。",
   "Equity": "保有資産",
   "Pending Deposits/Withdrawals": "預入金/引き出し",
   "Floating P/L": "含み損益",
