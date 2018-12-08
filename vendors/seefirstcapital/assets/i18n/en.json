@@ -395,6 +395,8 @@
   "DW_REQUEST_STATUS_6": "Insufficient funds",
   "Risk limit description": "<p>Risk limit is a tool that can help you control your risks and protect your profit.</p><p>It is calculated from Balance High Water Mark (Highest High point of Balance, Balance = Sum of all deposits - sum of your withdrawals + closed PnL of positions).</p><p>After setting a risk limit for your account you will see a signal equity  - the equity of your account where your account will be closed by a risk limit.</p><p>Once it is reached, all opened positions will be closed and account will be unsubscribed from all money managers.</p><p><b>Recommendation:</b></p><p>1) Don’t set risk limits too close to current equity of your account. Make it not less than 20-30% lower.</p><p>2) Please notice that after reaching the first one you  should use double numbers to achieve right results. So previous risk limit was reached at 20% DD limit  and you want to set it as another 20%, you should set 40% (20% for past and 20% for future) but not just another 20%.</p>",
   "Balance High Water Mark": "Balance High Water Mark",
+  "Attention": "Attention",
+  "Account is closed. To perform any action, please activate it": "Account is closed. To perform any action, please activate it",
   "Current PnL": "Current PnL",
   "Profit fee": "Profit fee",
   "Profit fee period": "Profit fee period",
@@ -416,5 +418,8 @@
   "Proportionally by Free Margin Exp": "Pos_Inv = (Free_Margin_investor/Free_margin_Master) * Master_position",
   "Fixed lot allocation": "Fixed lot allocation",
   "Fixed lot allocation Exp": "Pos_Inv = Ratio<br/><br/><p>When manager is using this allocation method investor will get order size equal to ratio. Size of master/investment accounts and Size of master pisition are not taken into calculations.</p>",
-  "": ""
+  "Master account name": "Master account name",
+  "Investment account name": "Investment account name",
+  "Important Notice": "Important Notice",
+  "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings."
 }
