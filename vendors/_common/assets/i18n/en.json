@@ -190,8 +190,8 @@
   "Status": "Status",
   "Ratio/lot": "Ratio/lot",
   "Open positions": "Open positions",
-  "Use login and trading password of existing MT4 account": "Use login and trading password of existing MetaTrader account",
-  "Use login and trading password of existing MT5 account": "Use login and trading password of existing MetaTrader account",
+  "Use login and trading password of existing MT4 account": "Use login and trading password of existing MT4 account",
+  "Use login and trading password of existing MT5 account": "Use login and trading password of existing MT5 account",
   "Fund manager": "PAMM (Fund Manager)",
   "Cash manager": "PAMM",
   "Signal manager": "MAM",
@@ -417,5 +417,9 @@
   "Proportionally by Free Margin": "Proportionally by Free Margin",
   "Proportionally by Free Margin Exp": "Pos_Inv = (Free_Margin_investor/Free_margin_Master) * Master_position",
   "Fixed lot allocation": "Fixed lot allocation",
-  "Fixed lot allocation Exp": "Pos_Inv = Ratio<br/><br/><p>When manager is using this allocation method investor will get order size equal to ratio. Size of master/investment accounts and Size of master pisition are not taken into calculations.</p>"
+  "Fixed lot allocation Exp": "Pos_Inv = Ratio<br/><br/><p>When manager is using this allocation method investor will get order size equal to ratio. Size of master/investment accounts and Size of master pisition are not taken into calculations.</p>",
+  "Master account name": "Master account name",
+  "Investment account name": "Investment account name",
+  "Important Notice": "Important Notice",
+  "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings."
 }
