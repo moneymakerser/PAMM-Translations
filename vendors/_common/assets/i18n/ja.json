@@ -211,7 +211,6 @@
   "Ratio Multiplier": "比率乗数",
   "Proportional by Balance*Ratio": "残高と比率による比例",
   "Proportional by Balance": "残高による比例",
-
   "CREATE_ACCOUNT_1": "マスターアカウントを作成",
   "CREATE_ACCOUNT_2": "投資アカウントを作成",
   "CREATE_ACCOUNT_TEXT_1": "マスターアカウントは資金管理に使用されます。 あなたがマスターアカウントで取引するとき、あなたのポジションは投資家のアカウントに割り当てられます。",
@@ -401,7 +400,6 @@
   "Profit fee": "利益報酬",
   "Profit fee period": "利益報酬期間",
   "Followed by": "Followed by <span class='primary-color'>{{investors}}</span> investors with <span class='primary-color'>{{amount}}</span>",
-
   "You have reached max number of allowed accounts": "申込が可能な上限数に到達しました。いかなる取引でも構いませんので1つ申込を解除して再度お試しください。",
   "Fund Investor": "ファンド投資家",
   "Signal Receiver": "シグナル受信者",
