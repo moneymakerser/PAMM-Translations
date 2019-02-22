@@ -401,7 +401,7 @@
   "Profit fee": "Profit fee",
   "Profit fee period": "Profit fee period",
   "Followed by": "Followed by <span class='primary-color'>{{investors}}</span> investors with <span class='primary-color'>{{amount}}</span>",
-  "You have reached max number of allowed accounts": "You've reached Max number of active subscriptions. Please unsubscribe from one of traders and try again.",
+  "You have reached max number of allowed accounts": "You've reached Max number of active subscriptions for that invesment account. Please unsubscribe from one of traders and try again.",
   "Fund Investor": "Fund Investor",
   "Signal Receiver": "Signal Receiver",
   "Proportionally by Equity * Ratio": "Proportionally by Equity * Ratio",
