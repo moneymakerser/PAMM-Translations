@@ -251,7 +251,7 @@
   "Sign in": "サインイン",
   "Payment account login": "Commission accountにログインしました",
   "Need support?": "",
-  "What is a Payment account?": "",
+  "What is a payment account?": "",
   "How to change/reset a password for Payment account?": "",
   "You can change it inside of trader’s room or ask our support team to reset it.": "",
   "Password must contain at lease 7 symbols, one number and one letter.": "パスワードは７文字の英数字混じりでご登録下さい。メールでの通知はありませんので、メモを忘れないようにお願いします。",
@@ -396,7 +396,9 @@
   "Balance High Water Mark": "ハイウォーター・マーク　バランス",
   "Attention": "注意事項",
   "Account is closed. To perform any action, please activate it": "口座は停止されています。アクションを行うためには、アクティベートを行ってください。",
-  "You have reached max number of allowed accounts": "トレーダーフォロー限度数（３人）を超えました。現在フォロー中のトレーダーをアンフォローし、ご希望のトレーダーを選択の上、フォローして下さい。",
+  "You have reached max number of allowed accounts": "→フォロー限度（3人まで）を超えました。このトレーダーをフォローするには、フォロー中のトレーダーをアンフォローしてから、お試しください。",
+  "Followed by": "Followed by <span class='primary-color'>{{investors}}</span> investors",
+  "Followed by amount": "Followed by <span class='primary-color'>{{investors}}</span> investors with <span class='primary-color'>{{amount}}</span>",
   "Fund Investor": "Fund Investor",
   "Signal Receiver": "TradeBook Follower",
   "Proportionally by Equity * Ratio": "Proportionally by Equity * Ratio",
@@ -416,6 +418,5 @@
   "Master account name": "Tradebook Master",
   "Investment account name": "Tradebook Follower",
   "Important Notice": "Important Notice",
-  "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.",
-  "Age": "運用期間"
+  "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings."
 }
