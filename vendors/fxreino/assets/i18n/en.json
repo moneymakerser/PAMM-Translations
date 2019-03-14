@@ -1,5 +1,5 @@
 {
   "Request a demo.": "Open account in Secure Login",
-  "Forgot password MT4 text": "Payment account is any account that you can open in <a class='cursor-pointer teal' href='{{link}}'>Secure login</a>. It will be used as e-wallet for making deposits and withdrawals",
-  "You can change it inside of trader’s room or ask our support team to reset it.": "You can change it inside of Secure login or ask our support team to reset it."
+  "Forgot password MT4 text": "Payment account is any account that you can open in <a class='cursor-pointer teal' href='{{link}}'>Trader login</a>. It will be used as e-wallet for making deposits and withdrawals",
+  "You can change it inside of trader’s room or ask our support team to reset it.": "You can change it inside of Trader login or ask our support team to reset it."
 }
