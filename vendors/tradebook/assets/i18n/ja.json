@@ -396,7 +396,7 @@
   "Balance High Water Mark": "ハイウォーター・マーク　バランス",
   "Attention": "注意事項",
   "Account is closed. To perform any action, please activate it": "口座は停止されています。アクションを行うためには、アクティベートを行ってください。",
-  "You have reached max number of allowed accounts": "トレーダーフォロー限度数（３人）を超えました。現在フォロー中のトレーダーをアンフォローし、ご希望のトレーダーを選択の上、フォローして下さい。",
+  "You have reached max number of allowed accounts": "トレーダーフォロー限度数（３人）を超えました。現在フォロー中のトレーダーをアンフォローし、ご希望のトレーダーを新たにご選択の上、フォローして下さい。",
   "Followed by": "Followed by <span class='primary-color'>{{investors}}</span> investors",
   "Followed by amount": "Followed by <span class='primary-color'>{{investors}}</span> investors with <span class='primary-color'>{{amount}}</span>",
   "Fund Investor": "Fund Investor",
