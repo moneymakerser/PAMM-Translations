@@ -423,5 +423,6 @@
   "Important Notice": "Important Notice",
   "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.",
   "Age": "Age",
-  "Strategy description": "Strategy description"
+  "Strategy description": "Strategy description",
+  "Always open minimum lot": "Always open minimum lot"
 }
