@@ -425,7 +425,7 @@
   "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "口座の閉鎖後、リスク上限は0にリセットされます。今後もご利用される場合は、お手数ですがアカウント設定から再度設定をお願いします。",
   "Age": "運用期間",
   "Strategy description": "トレードスタイル",
-  "Pending withdrawals": "Pending withdrawals",
-  "Search by login": "Search by login",
-  "Detailed statistics": "Detailed statistics"
+  "Pending withdrawals": "処理中の出金手続き",
+  "Search by login": "検索",
+  "Detailed statistics": "統計詳細"
 }
