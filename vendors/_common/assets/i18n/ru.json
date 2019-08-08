@@ -436,7 +436,7 @@
   "Age": "Возраст",
   "Invest": "Вложить",
   "Followers": "Инвесторы",
-  "Last N days": "Последние {{days}} дней",
+  "Last N days": "За последние {{days}} дней",
   "Existing subscription(s)": "Существующая подписка(ки)",
   "You already have subscriptions": "У вас уже есть {{subsCount}} подписка(ки) к мастер-счету {{ma}}",
   "Accounts that are subscribed to master": "Счета, которые уже подписаны к мастер-счету",
