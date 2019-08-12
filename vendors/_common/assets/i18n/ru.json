@@ -212,7 +212,6 @@
   "Ratio Multiplier": "Коэффициент копирования",
   "Proportional by Balance*Ratio": "% балансу * коэф.",
   "Proportional by Balance": "% балансу",
-
   "CREATE_ACCOUNT_1": "Создать мастер-счет",
   "CREATE_ACCOUNT_2": "Создать инвестиционный счет",
   "CREATE_ACCOUNT_TEXT_1": "Мастер-счет используется для управления средствами инвесторов. Каждый раз, когда вы торгуете на мастер-счете, ваши сделки будут распределяться на счета инвесторов.",
@@ -229,6 +228,10 @@
   "ACCOUNT_TYPE_32": "Социальный трейдинг (Инвестор)",
   "ACCOUNT_TYPE_41": "ПАММ (Мастер)",
   "ACCOUNT_TYPE_42": "ПАММ (Инвестор)",
+  "SHORT_ACCOUNT_TYPE_1": "ПАММ",
+  "SHORT_ACCOUNT_TYPE_2": "MAM",
+  "SHORT_ACCOUNT_TYPE_3": "Социальный",
+  "SHORT_ACCOUNT_TYPE_4": "ПАММ",
   "LINK_1": "Подписан",
   "LINK_2": "В процессе отписки",
   "LINK_3": "Отписан",
@@ -412,7 +415,6 @@
   "DW_REQUEST_STATUS_6": "Недостаточно средств",
   "Pending withdrawals": "Отложенные выводы",
   "Search by login": "Поиск по логину",
-  "Detailed statistics": "Детальная статистика",
   "Allocation": "Метод аллокации",
   "Hide from rating": "Скрыть из рейтинга",
   "Profit fee": "Плата за прибыль",
@@ -457,5 +459,11 @@
   "BT_FEE_115": "% от прибыли",
   "BT_FEE_116": "% от прибыли",
   "BT_FEE_120": "Плата за управление",
-  "BT_FEE_121": "Плата за управление"
+  "BT_FEE_121": "Плата за управление",
+  "Fund Investor": "ПАММ-инвестор",
+  "Signal Receiver": "Инвестор",
+  "MT server": "МТ сервер",
+  "Deal": "Сделка",
+  "DW_REQUEST_DIR_0": "Ввод",
+  "DW_REQUEST_DIR_1": "Вывод"
 }
