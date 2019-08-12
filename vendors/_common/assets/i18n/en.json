@@ -441,7 +441,6 @@
   "Switch to Live": "Switch to Live",
   "Switch to Demo": "Switch to Demo",
   "Please ask our support team to create new Fee's levels.": "Please ask our support team to create new Fee's levels.",
-  "Detailed Statistics": "Detailed Statistics",
   "Not set": "Not set",
   "Strategy description": "Strategy description",
   "DW_REASON_0": "Client",
@@ -460,7 +459,6 @@
   "LINK_STATUS_3": "Closed",
   "Always open minimum lot": "Always open minimum lot",
   "Pending withdrawals": "Pending withdrawals",
-  "Detailed statistics": "Detailed statistics",
   "Allocation": "Allocation",
   "Hide from rating": "Hide from rating",
   "% from balance / Year": "% from balance / Year",
@@ -496,5 +494,7 @@
   "BT_FEE_115": "% from Profit",
   "BT_FEE_116": "% from Profit",
   "BT_FEE_120": "Management fee",
-  "BT_FEE_121": "Management fee"
+  "BT_FEE_121": "Management fee",
+  "DW_REQUEST_DIR_0": "Deposit",
+  "DW_REQUEST_DIR_1": "Withdrawal"
 }
