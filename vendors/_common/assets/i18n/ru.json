@@ -465,5 +465,6 @@
   "MT server": "МТ сервер",
   "Deal": "Сделка",
   "DW_REQUEST_DIR_0": "Ввод",
-  "DW_REQUEST_DIR_1": "Вывод"
+  "DW_REQUEST_DIR_1": "Вывод",
+  "Activate subscription": "Активировать подписку"
 }
