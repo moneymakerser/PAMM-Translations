@@ -467,13 +467,13 @@
   "DW_REQUEST_DIR_0": "Ввод",
   "DW_REQUEST_DIR_1": "Вывод",
   "Activate subscription": "Активировать подписку",
-  "DW_REASON_0": "Client",
-  "DW_REASON_1": "Broker",
-  "DW_REASON_2": "Drawdown Limit",
-  "DW_REASON_3": "End Offer",
+  "DW_REASON_0": "Клиент",
+  "DW_REASON_1": "Брокер",
+  "DW_REASON_2": "Лимит потерь",
+  "DW_REASON_3": "Окончание подписки",
   "DW_REASON_4": "Stop out",
-  "DW_REASON_5": "Profit Target",
+  "DW_REASON_5": "Цель по прибыли",
   "DW_REASON_6": "Stop out",
-  "DW_REASON_7": "Error",
-  "Go to My Investors page": "Go to My Investors page"
+  "DW_REASON_7": "Ошибка",
+  "Go to My Investors page": "Перейти на страницу подписчиков"
 }
