@@ -1,3 +1,4 @@
+
 {
   "My Accounts": "Мои счета",
   "Commissions": "Комиссии",
@@ -230,7 +231,7 @@
   "ACCOUNT_TYPE_42": "ПАММ",
   "SHORT_ACCOUNT_TYPE_1": "ПАММ",
   "SHORT_ACCOUNT_TYPE_2": "MAM",
-  "SHORT_ACCOUNT_TYPE_3": "Копи",
+  "SHORT_ACCOUNT_TYPE_3": " ",
   "SHORT_ACCOUNT_TYPE_4": "ПАММ",
   "LINK_1": "Активен",
   "LINK_2": "В процессе отписки",
