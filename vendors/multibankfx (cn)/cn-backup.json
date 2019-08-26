@@ -1,0 +1,5 @@
+{
+  "Forgot password MT4 text": "付款账户是您与MultiBank FX International Corporation（BVI）开通的一个交易账户。登入付款账户，您需要使用交易账户凭证作为登入名，密码与您登入MetaTrader的密码一样。如您还不是MultiBank Group的客户，您需要先开通 <a class='cursor-pointer teal' href='https://zh.mexgroup.com/social-trading/live-account' target='_blank'>真实账户</a>。",
+  "Need support?": "帮助",
+  "You can change it inside of trader’s room or ask our support team to reset it.": "您可在 <a class='cursor-pointer teal' href='http://my.mexgroup.com/zh/traders/login' target='_blank'>myMultiBank</a> 账户页面内更改您的付款账户密码，或者寻求我们的 <a class='cursor-pointer teal' href='https://zh.mexgroup.com/about/contact' target='_blank'>客户支持</a> 团队为您重设密码。",
+}
