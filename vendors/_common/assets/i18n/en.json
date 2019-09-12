@@ -496,5 +496,7 @@
   "BT_FEE_120": "Management fee",
   "BT_FEE_121": "Management fee",
   "DW_REQUEST_DIR_0": "Deposit",
-  "DW_REQUEST_DIR_1": "Withdrawal"
+  "DW_REQUEST_DIR_1": "Withdrawal",
+  "Restricted D/W currency convertion for Payment account (Operation not allowed)": "Restricted D/W currency convertion for Payment account (Operation not allowed)",
+  "Operation not allowed": "Operation not allowed"
 }
