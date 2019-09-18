@@ -475,5 +475,7 @@
   "DW_REASON_6": "Stop out",
   "DW_REASON_7": "Ошибка",
   "Go to My Investors page": "Перейти на страницу подписчиков",
-  "Continue": "Продолжить"
+  "Continue": "Продолжить",
+  "Restricted D/W currency convertion for Payment account (Operation not allowed)": "Конвертация валют запрещена. Обратитесь в службу поддержки",
+  "Operation not allowed": "Операция запрещена, обратитесь в службу поддержки"
 }
