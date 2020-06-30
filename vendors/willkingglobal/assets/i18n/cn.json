@@ -1,0 +1,18 @@
+{
+  "Forgot password MT4 text": "支付账户是您通过经官网注册开设的交易账户 (例:603521)，是用于出/入金的电子钱包",
+  "Subscription agreement": "确认接受 - <a href=https://cn.wkgml.us/ia.pdf>保险计划风险协议</a>",
+  "PAMM": "B仓投保 (PAMM)",
+  "Fund manager": "B仓投保账户 (PAMM)",
+  "Cash manager": "B仓投保账户 (PAMM)",
+  "Signal manager": "A仓跟单账户 (MAM)",
+  "Signal investor": "A仓跟单账户 (MAM)",
+  "ACCOUNT_TYPE_1": "B仓投保账户 (PAMM) ",
+  "ACCOUNT_TYPE_2": "A仓跟单账户 (MAM)",
+  "ACCOUNT_TYPE_4": "B仓投保账户 (PAMM)",
+  "ACCOUNT_TYPE_11": "B仓投保账户 (PAMM)",
+  "ACCOUNT_TYPE_12": "B仓投保账户 (PAMM)",
+  "ACCOUNT_TYPE_21": "A仓跟单账户 (MAM)",
+  "ACCOUNT_TYPE_22": "A仓跟单账户 (MAM)",
+  "ACCOUNT_TYPE_41": "B仓投保账户 (PAMM)",
+  "ACCOUNT_TYPE_42": "B仓投保账户 (PAMM)"
+}
