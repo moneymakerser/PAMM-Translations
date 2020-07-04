@@ -229,6 +229,10 @@
   "ACCOUNT_TYPE_32": "소셜 거래 투자",
   "ACCOUNT_TYPE_41": "PAMM 마스터",
   "ACCOUNT_TYPE_42": "PAMM 투자",
+  "SHORT_ACCOUNT_TYPE_1": "PAMM",
+  "SHORT_ACCOUNT_TYPE_2": "MAM",
+  "SHORT_ACCOUNT_TYPE_3": "Social",
+  "SHORT_ACCOUNT_TYPE_4": "PAMM",
   "LINK_1": "구독됨",
   "LINK_2": "탈퇴 중",
   "LINK_3": "구독 취소",
@@ -426,7 +430,6 @@
   "Your risk limit was reset to 0 after closing account. If you used it before and want to use it in future, please set it one more time in account settings.": "계정을 폐쇄 한 후에 위험 한도가 0으로 재설정되었습니다. 이전에 사용했고 나중에 사용하려면 계정 설정에서 한 번 더 설정하십시오. ",
   "Pending withdrawals": "Pending withdrawals",
   "Search by login": "Search by login",
-  "Detailed statistics": "Detailed statistics",
   "Allocation": "Allocation",
   "Hide from rating": "Hide from rating",
   "% from balance / Year": "% from balance / Year",
@@ -453,6 +456,8 @@
   "Check subscription": "Check subscription",
   "Management fee period": "Management fee period",
   "Your account was unsubscribed from all signal providers and all opened positions were closed.": "Your account was unsubscribed from all signal providers and all opened positions were closed.",
-  "Insufficient funds in the payment account": "Insufficient funds in the payment account"
+  "Insufficient funds in the payment account": "Insufficient funds in the payment account",
+  "DW_REQUEST_DIR_0": "Deposit",
+  "DW_REQUEST_DIR_1": "Withdrawal"
 }
 

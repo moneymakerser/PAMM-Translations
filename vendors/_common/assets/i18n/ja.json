@@ -228,6 +228,10 @@
   "ACCOUNT_TYPE_32": "ソーシャル取引投資",
   "ACCOUNT_TYPE_41": "PAMM マスター",
   "ACCOUNT_TYPE_42": "PAMM 投資",
+  "SHORT_ACCOUNT_TYPE_1": "PAMM",
+  "SHORT_ACCOUNT_TYPE_2": "MAM",
+  "SHORT_ACCOUNT_TYPE_3": "Social",
+  "SHORT_ACCOUNT_TYPE_4": "PAMM",
   "LINK_1": "出資済の資本",
   "LINK_2": "退会手続き中",
   "LINK_3": "退会完了",
@@ -428,7 +432,6 @@
   "Strategy description": "トレードスタイル",
   "Pending withdrawals": "処理中の出金手続き",
   "Search by login": "検索",
-  "Detailed statistics": "統計詳細",
   "Allocation": "Allocation",
   "Hide from rating": "Hide from rating",
   "% from balance / Year": "% from balance / Year",
@@ -454,5 +457,7 @@
   "Check subscription": "Check subscription",
   "Management fee period": "Management fee period",
   "Your account was unsubscribed from all signal providers and all opened positions were closed.": "Your account was unsubscribed from all signal providers and all opened positions were closed.",
-  "Insufficient funds in the payment account": "Insufficient funds in the payment account"
+  "Insufficient funds in the payment account": "Insufficient funds in the payment account",
+  "DW_REQUEST_DIR_0": "Deposit",
+  "DW_REQUEST_DIR_1": "Withdrawal"
 }
